@@ -59,8 +59,6 @@ function updateFilters() {
     // 8. Set the filtered data to the tableData.
     let filteredData = tableData;
   
-    // 9. Loop through all of the filters and keep any data that matches the filter values
-
     // In Step 9, loop through the filters object and store the data 
     // that matches the filter values in the variable created in Step 8.
 
